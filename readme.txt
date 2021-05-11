@@ -1,3 +1,7 @@
+Autor: Robin Cantone
+Date: 11.05.2021
+
+
 Diese Webseite wird verwendet um Dokumentationen von Modulen und ÜKs abzulegen und anderen Schülern zur Verfügung zu stellen.
 
 Auch bei Bewerbungen wird ein Link zu dieser Webseite mitgeschickt, damit der potenzielle Arbeitgeber einen Eindruck meiner bisherigen Projekte erhält.
